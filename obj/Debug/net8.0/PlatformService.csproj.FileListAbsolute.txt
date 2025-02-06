@@ -169,3 +169,4 @@ C:\Users\fatih\Microservices\PlatformService\obj\Debug\net8.0\refint\PlatformSer
 C:\Users\fatih\Microservices\PlatformService\obj\Debug\net8.0\PlatformService.pdb
 C:\Users\fatih\Microservices\PlatformService\obj\Debug\net8.0\PlatformService.genruntimeconfig.cache
 C:\Users\fatih\Microservices\PlatformService\obj\Debug\net8.0\ref\PlatformService.dll
+C:\Users\fatih\Microservices\PlatformService\obj\Debug\net8.0\PlatformService.sourcelink.json
